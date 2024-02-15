@@ -1,0 +1,10 @@
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\bin\Debug\белый ящик №1.exe.config
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\bin\Debug\белый ящик №1.exe
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\bin\Debug\белый ящик №1.pdb
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый ящик №1.csproj.AssemblyReference.cache
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый_ящик__1.Form1.resources
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый_ящик__1.Properties.Resources.resources
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый ящик №1.csproj.GenerateResource.cache
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый ящик №1.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый ящик №1.exe
+C:\Users\Undertaker\source\repos\белый ящик №1\белый ящик №1\obj\Debug\белый ящик №1.pdb
